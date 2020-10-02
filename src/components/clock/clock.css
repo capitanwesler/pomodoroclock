@@ -1,0 +1,45 @@
+/* CSS for the Clock */
+
+.alive {
+    text-align: center;
+    background-color: #1e555c;
+    border-radius: 50px;
+    width: 220px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 7px solid #143c41;
+}
+
+.alive p {
+    font-size: 25px;
+    color: white;
+    margin-top: 12px;
+    margin-bottom: 12px;
+}
+
+.alive span {
+    font-size: 60px;
+    color: white;
+}
+
+.dead {
+    text-align: center;
+    background-color: #1e555c;
+    border-radius: 50px;
+    width: 220px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 7px solid #143c41;
+}
+
+.dead p {
+    font-size: 25px;
+    color: red;
+    margin-top: 12px;
+    margin-bottom: 12px;
+}
+
+.dead span {
+    font-size: 60px;
+    color: red;
+}

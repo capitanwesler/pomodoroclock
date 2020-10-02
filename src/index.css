@@ -1,0 +1,43 @@
+/* This is the main css for the app in React ! */
+
+/* Resets for the CSS */
+
+p {
+    margin: 0;
+}
+
+body {
+    margin: 0;
+    font-family: sans-serif;
+    background-color: #1e555c;
+}
+
+/* CSS for the main container */
+#main-container {
+    width: 450px;
+    margin: 200px auto;
+}
+
+#buttons {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.span-main {
+    color: white;
+    font-size: 25px;
+    padding-right: 20px;
+}
+
+#designed {
+    margin-top: 20px;
+    text-align: center;
+}
+
+#designed p:first-child {
+    color: #a50d0d;
+}
+
+#designed p {
+    color: #00264d;
+}

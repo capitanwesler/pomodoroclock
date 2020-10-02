@@ -1,0 +1,41 @@
+/* CSS for the Clock container */
+
+#board-container {
+    width: 450px;
+}
+
+#title-pomodoro {
+    text-align: center;
+}
+
+#title-pomodoro h1 {
+    font-size: 50px;
+    color: white;
+    text-shadow: 5px 5px black;
+}
+
+#break-and-session {
+    display: flex;
+    justify-content: space-around;
+}
+
+#clock-container {
+    margin-top: 35px;
+}
+
+.p-break-session {
+    font-size: 20px;
+    color: white;
+    padding: 10px;
+}
+
+.span-break-session {
+    font-size: 30px;
+    color: white;
+}
+
+.icon {
+    color: white;
+    font-size: 30px;
+    padding: 0 15px;
+}
